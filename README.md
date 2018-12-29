@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/AhmedFathi77/Weather-App-using-React.js/blob/master/we.PNG)
 
 ## Available Scripts
 
